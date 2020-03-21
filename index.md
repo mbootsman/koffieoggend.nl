@@ -6,6 +6,6 @@
 
 Daarna kan je vast wel een paar euro doneren aan het Rode Kruis of de Voedselbank.
 
-[Doneer aan het Rode Kruis](https://doneer.rodekruis.nl/doneer)
+### [Doneer aan het Rode Kruis](https://doneer.rodekruis.nl/doneer)
 
-[Doneer aan de Voedselbank](https://www.voedselbankennederland.nl/steun-ons/steun-voedselbank-donatie/)
+### [Doneer aan de Voedselbank](https://www.voedselbankennederland.nl/steun-ons/steun-voedselbank-donatie/)
