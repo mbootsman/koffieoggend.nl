@@ -10,4 +10,4 @@ Daarna kan je vast wel een paar euro doneren aan het Rode Kruis of de Voedselban
 
 ### [Doneer aan de Voedselbank](https://www.voedselbankennederland.nl/steun-ons/steun-voedselbank-donatie/)
 
-<iframe src="https://giphy.com/embed/Y0V3Gbcb6ZOUTmVeNL" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+!(Koning Willem-Alexander drinkt een kopje koffie)[https://github.com/mbootsman/koffieoggend.nl/blob/master/i/wa-burendag-2019-anp-01.jpg]
