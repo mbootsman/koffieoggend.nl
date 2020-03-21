@@ -1,4 +1,6 @@
-## Onze Koning had het over de koffieoggend in zijn toespraak op 20 maart 2020.
+## Koffieoggend
+
+Onze Koning had het over de koffieoggend in zijn toespraak op 20 maart 2020.
 
 ### Geniet van je bakkie koffie, alleen, of online met anderen.
 
