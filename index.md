@@ -4,7 +4,8 @@
 
 ### Geniet van je bakkie koffie, alleen, of online met anderen.
 
-Daarna kan je vast wel een paar euro doneren aan het Rode Kruis of de Vodeselbank.
+Daarna kan je vast wel een paar euro doneren aan het Rode Kruis of de Voedselbank.
 
-[Doneer voor het Rode Kruis](https://doneer.rodekruis.nl/doneer)
-[Doneer voor de Voedselbank](https://www.voedselbankennederland.nl/steun-ons/steun-voedselbank-donatie/)
+[Doneer aan het Rode Kruis](https://doneer.rodekruis.nl/doneer)
+
+[Doneer aan de Voedselbank](https://www.voedselbankennederland.nl/steun-ons/steun-voedselbank-donatie/)
