@@ -1,6 +1,6 @@
 ## Onze koning had het over de koffieoggend.
 
-<iframe src="https://giphy.com/embed/Y0V3Gbcb6ZOUTmVeNL" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y0V3Gbcb6ZOUTmVeNL">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Y0V3Gbcb6ZOUTmVeNL" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### Geniet van je bakkie koffie, alleen, of online met anderen.
 
